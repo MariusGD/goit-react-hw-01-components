@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://clipart-library.com/images/pcodBq8xi.png",
+    "name": "Mango",
+    "isOnline": false,
+    "id": 2654
+  },
+  {
+    "avatar": "https://img.icons8.com/?size=256&id=OZhsaydy1Z4i&format=png",
+    "name": "Kiwi",
+    "isOnline": false,
+    "id": 3674
+  },
+  {
+    "avatar": "https://img.icons8.com/?size=256&id=B4OV2c027yln&format=png",
+    "name": "Ajax",
+    "isOnline": true,
+    "id": 2214
+  },
+  {
+    "avatar": "https://img.icons8.com/?size=256&id=hKEabgs0rsmx&format=png",
+    "name": "Jay",
+    "isOnline": false,
+    "id": 3694
+  },
+  {
+    "avatar": "https://img.icons8.com/?size=256&id=BkNF8Np3L3rw&format=png",
+    "name": "Poly",
+    "isOnline": true,
+    "id": 1136
+  }
+]

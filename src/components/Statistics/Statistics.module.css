@@ -1,0 +1,63 @@
+.statistics {
+  margin-top: 30px;
+  padding-top: 20px;
+  border: 1px solid #ccc;
+  width: 400px;
+  height: 106 px;
+  text-align: center;
+  box-shadow: 1px 1px 3px 1px #575757;
+  background-color: beige;
+}
+
+.title {
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+  font-size: large;
+  color: #434040;
+}
+
+.list {
+  list-style-type: none;
+  display: grid;
+  /* adaugat pentru a centra elementele pe orizontala */
+  align-items: center; /* adaugat pentru a centra elementele pe verticala */
+  padding: 0;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 0px;
+  margin-left: 20px;
+}
+
+.list:hover {
+  scale: 1.02;
+}
+
+.item {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #ccc;
+  padding: 10px; /* sau orice valoare dorită pentru spațiere între elemente */
+  width: 40px; /* adaugat pentru a face blocul mai mic pe orizontala */
+  height: 40px; /* adaugat pentru a face blocul mai mic pe verticala */
+}
+
+.item:nth-child(1) {
+  background-color: red;
+}
+
+.item:nth-child(2) {
+  background-color: blue;
+}
+
+.item:nth-child(3) {
+  background-color: green;
+}
+
+.item:nth-child(4) {
+  background-color: yellow;
+}
+
+.item:nth-child(5) {
+  background-color: purple;
+}
